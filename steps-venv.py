@@ -60,3 +60,25 @@
 
 
 
+# agregar los archivos al repo
+
+# git add .
+
+# comprobar usuario y mail
+# git config user.email    
+# git config user.name
+
+# definir usuario y mail
+
+# git config --local user.email "mail@mail.com"
+# git config --local user.name "fulano"
+
+
+# realizar commit
+
+# git commit -m "inicio del proyecto"
+
+
+
+
+
